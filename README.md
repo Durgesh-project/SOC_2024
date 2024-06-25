@@ -1,6 +1,6 @@
 # SOC_2024
-#### This code is part of the assignment for the summer project --- at IITB
-#### Copyright of this project lies with IITB
+####  This code is part of the assignment for the SOC project - "A Guided Tour to Pytorch" at IITB
+####  Copyright of this project lies with IITB
 ## The Jupyter Notebook file that implements a neural network to perform binary classification on a set of images. 
 
 ### The flow of code is as follows:
